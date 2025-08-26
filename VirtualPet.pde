@@ -63,9 +63,4 @@ textSize(50);
 String animalName = "Rabbit";
 text(animalName,325,150);
 
-//sun
-fill(228,247,10);
-noStroke();
-
-
 }
